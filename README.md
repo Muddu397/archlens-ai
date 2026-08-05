@@ -168,10 +168,7 @@ Provides practical recommendations to improve the architecture.
 
 # 🏗 Architecture Diagram
 
-```
-docs/arch-diagram.png
-
-```
+![Architecture Diagram](docs/arch-diagram.png)
 
 # 🛠 Tech Stack
 
@@ -281,35 +278,28 @@ https://main.d10fh3nwxvv1tf.amplifyapp.com/
 
 ## Home Page
 
-```
-docs/home-page.png
-```
+![Home Page](docs/home-page.png)
 
 ---
 
 ## Input Form
 
-```
-docs/input-form.png
-```
+![Input Form](docs/input-form.png)
 
 ---
 
 ## Production Readiness Score
 
-```
-docs/readiness-score.png
-```
+![Production Readiness](docs/readiness-score.png)
 
 ---
 
 ## Recommendations
 
-```
-docs/recommendations1.png
+![Recommendations](docs/recommendations1.png)
 
-docs/recommendations2.png
-```
+
+![Recommendations](docs/recommendations2.png)
 
 ---
 
