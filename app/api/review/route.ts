@@ -9,6 +9,7 @@ export async function POST(req: Request) {
 
     const response = await fetch(LAMBDA_URL, {
       method: "POST",
+      cache: "no-store",
       headers: {
         "Content-Type": "application/json",
       },
