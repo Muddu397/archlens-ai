@@ -168,47 +168,10 @@ Provides practical recommendations to improve the architecture.
 
 # 🏗 Architecture Diagram
 
-> *(Replace this image after generating your AWS architecture diagram.)*
+```
+docs/arch-diagram.png
 
 ```
-                    +---------------------+
-                    |        User         |
-                    +----------+----------+
-                               |
-                               v
-                  +-------------------------+
-                  |     AWS Amplify         |
-                  |   Next.js Frontend      |
-                  +-----------+-------------+
-                              |
-                              v
-                  +-------------------------+
-                  |   Next.js API Route     |
-                  +-----------+-------------+
-                              |
-                              v
-                  +-------------------------+
-                  |      AWS Lambda         |
-                  +-----------+-------------+
-                              |
-                              v
-                  +-------------------------+
-                  |    Amazon Bedrock       |
-                  |      Nova Lite          |
-                  +-----------+-------------+
-                              |
-                              v
-                  +-------------------------+
-                  | Structured JSON Review  |
-                  +-----------+-------------+
-                              |
-                              v
-                  +-------------------------+
-                  | Interactive Dashboard   |
-                  +-------------------------+
-```
-
----
 
 # 🛠 Tech Stack
 
@@ -318,8 +281,6 @@ https://main.d10fh3nwxvv1tf.amplifyapp.com/
 
 ## Home Page
 
-> *(Insert Screenshot)*
-
 ```
 docs/home-page.png
 ```
@@ -328,27 +289,13 @@ docs/home-page.png
 
 ## Input Form
 
-> *(Insert Screenshot)*
-
 ```
 docs/input-form.png
 ```
 
 ---
 
-## Architecture Review Dashboard
-
-> *(Insert Screenshot)*
-
-```
-docs/results-dashboard.png
-```
-
----
-
 ## Production Readiness Score
-
-> *(Insert Screenshot)*
 
 ```
 docs/readiness-score.png
@@ -358,10 +305,10 @@ docs/readiness-score.png
 
 ## Recommendations
 
-> *(Insert Screenshot)*
-
 ```
-docs/recommendations.png
+docs/recommendations1.png
+
+docs/recommendations2.png
 ```
 
 ---
@@ -460,7 +407,7 @@ https://github.com/Muddu397
 
 ### LinkedIn
 
-https://www.linkedin.com/in/mohammedmudasser/
+https://www.linkedin.com/in/mohammed-mudasser
 
 ---
 
